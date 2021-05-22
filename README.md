@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Software Engineer-white.gif" width="600px" />
+  <video src="https://cdn.dribbble.com/users/1378520/videos/13796/g2i.mp4" width="600px" />
 </p>
 
 ## Hi there 👋
