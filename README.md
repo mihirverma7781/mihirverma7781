@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://cdn.dribbble.com/users/1378520/videos/13796/g2i.mp4" width="600px" />
+  <img src="https://github.com/yash-sharma01/yash-sharma01/blob/main/Software%20Engineer-white.gif" width="600px" />
 </p>
 
 ## Hi there 👋
@@ -18,4 +18,4 @@
 
 ### 👨‍💻 Total Visitors 
 
-<img src="https://profile-counter.glitch.me/yash-sharma01/count.svg" /><br>
+<img src="https://profile-counter.glitch.me/mihirverma7781/count.svg" /><br>
