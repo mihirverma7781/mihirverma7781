@@ -9,7 +9,8 @@
 - 😄 Pronouns: He/Him
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:mihirv7781@gmail.com">mihirv7781@gmail.com</a>
-
+<br/>
+<br/>
 
  ## 🧨I create user experiences that are:
 
@@ -24,6 +25,22 @@
 - **SEO Optimized 🔍**
 - **Crafted with pixel-perfect code ✨**
 
+<br/>
+<br/>
+## 📳Here are some technologies I use at work:
+
+
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+</p>
+
+<br/>
 
 <br/>
 <br/>
