@@ -11,7 +11,7 @@
 - 📫 Reach me at: <a href="mailto:mihirv7781@gmail.com">mihirv7781@gmail.com</a>
 
 
- ###🧨I create user experiences that are:
+ ## 🧨I create user experiences that are:
 
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
