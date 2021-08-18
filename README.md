@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/788099/screenshots/4135014/programming_kit8-net.png?compress=1&resize=800x600" width="600px" />
+  <img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" width="600px" />
 </p>
 
 ## Hi there 👋
