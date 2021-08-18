@@ -10,9 +10,9 @@
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:mihirv7781@gmail.com">mihirv7781@gmail.com</a>
 
-<h2 align="center">
-    🧨I create user experiences that are:
-</h2>
+
+ ###🧨I create user experiences that are:
+
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - **Responsive ✅**
