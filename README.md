@@ -27,8 +27,8 @@
 
 <br/>
 <br/>
- ## 🧨I create user experiences that are:
-## Here are some technologies I use at work:
+
+# Here are some technologies I use at work:
 
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
