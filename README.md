@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yash-sharma01/yash-sharma01/blob/main/Software%20Engineer-white.gif" width="600px" />
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="600px" />
 </p>
 
 ## Hi there 👋
