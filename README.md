@@ -14,7 +14,7 @@
 
  ## 🧨I create user experiences that are:
 
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
