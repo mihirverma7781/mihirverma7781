@@ -57,4 +57,4 @@
 
 <img src="https://profile-counter.glitch.me/mihirverma7781/count.svg" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma7781&layout=compact)](https://github.com/mihirv7781)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma7781&layout=compact)](https://github.com/mihirverma7781)
