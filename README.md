@@ -49,7 +49,7 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/mihirverma7781/7781">
+<a href="https://github.com/mihirverma7781">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="Mihir's GitHub Stats" />
 </a>
 
